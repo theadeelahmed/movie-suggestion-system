@@ -7,7 +7,7 @@ It analyzes movie data and finds similar movies using **cosine similarity** and 
 ## 🚀 Features  
 - 🎯 Recommends movies based on user input  
 - 📊 Uses **content-based filtering**  
-- ⚡ Built with **machine learning & NLP techniques**  
+- ⚡ Built with **NLP techniques**  
 - 🔍 Finds similar movies using **cosine similarity**  
 
 ## 🛠️ Tech Stack  
