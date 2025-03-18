@@ -1,7 +1,7 @@
 # 🎬 Movie Recommendation System  
 
 ## 📌 Overview  
-This **Movie Recommendation System** suggests movies based on user preferences using machine learning techniques.  
+This **Movie Recommendation System** suggests movies based on user preferences using NLP techniques.  
 It analyzes movie data and finds similar movies using **cosine similarity** and **vectorization techniques**.  
 
 ## 🚀 Features  
@@ -14,8 +14,7 @@ It analyzes movie data and finds similar movies using **cosine similarity** and 
 - **Programming Language:** Python 🐍  
 - **Libraries Used:**  
   - Pandas 🗂️ (Data Processing)  
-  - NumPy 🔢 (Numerical Operations)  
-  - Scikit-Learn 🤖 (Machine Learning)  
+  - NumPy 🔢 (Numerical Operations)   
   - NLTK 📝 (Text Processing)  
   - Jupyter Notebook 📓 (Development)  
 
