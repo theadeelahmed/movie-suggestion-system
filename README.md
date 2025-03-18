@@ -14,7 +14,8 @@ It analyzes movie data and finds similar movies using **cosine similarity** and 
 - **Programming Language:** Python 🐍  
 - **Libraries Used:**  
   - Pandas 🗂️ (Data Processing)  
-  - NumPy 🔢 (Numerical Operations)   
+  - NumPy 🔢 (Numerical Operations)
+  - Sklearn  
   - NLTK 📝 (Text Processing)  
   - Jupyter Notebook 📓 (Development)  
 
